@@ -197,7 +197,7 @@ Follow these steps to enable Azure AD SSO in the Azure portal.
 
     ![SSO configuration](./media/workday-tutorial/WorkdaySSOConfiguratio.png "SSO configuration")
 
-    a.  In the **Service Provider ID** textbox, type **https://www.workday.com**.
+    a.  In the **Service Provider ID** textbox, type **http://www.workday.com**.
 
     b. Select **Do Not Deflate SP-initiated Authentication Request**.
 
